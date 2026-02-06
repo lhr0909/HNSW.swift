@@ -2,7 +2,7 @@
 
 import PackageDescription
 
-let useLocalFramework = true
+let useLocalFramework = false
 let binaryTarget: Target
 
 if useLocalFramework {
